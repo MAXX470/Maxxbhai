@@ -1,8 +1,6 @@
 {
-  "showUpdate": true,
-  "title": "🔔 New Update Available!",
-  "message": "Please update the app to continue using it.",
-  "buttonText": "Update Now",
-  "updateUrl": "https://t.me/maxxmods1",
-  "credit": "MR. NoOB"
-}
+  "show_dialog": true,
+  "title": "New Update Available",
+  "message": "Please update your application!",
+  "button_text": "Update",
+  "button_url": "https://t.me/MAXXMODS1"

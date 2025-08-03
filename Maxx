@@ -1,7 +1,16 @@
 {
-  "show_dialog": true,
-  "title": "New Update Available",
-  "message": "Please update your application!",
-  "button_text": "Update",
-  "button_url": "https://t.me/MAXXMODS1"
-}
+  "showDialog": true,
+  "appVersionCode": 1,
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://t.me/maxxmods1",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Cancel",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
+{
